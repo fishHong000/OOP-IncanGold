@@ -11,6 +11,7 @@ A1083364_Project3_Computer.java、A1083364_Project3_Player.java,在這邊主要
 
 以下是在環境為 linux 課堂主機上進行編譯並執行
 A1083364_Project3_Main.java 檔案的指令:
+![](cmd.jpeg)
 
-
+以下是遊戲資料檔案I/O 與玩家執行決策之參考流程圖
 ![](flow-chart.jpeg)
